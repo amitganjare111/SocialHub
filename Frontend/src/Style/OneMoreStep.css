@@ -1,0 +1,32 @@
+.one-more-step{
+    font-size:18px;
+    text-align: center;
+    color:rgb(43, 42, 42);
+    font-weight: 500;
+}
+
+.enter-code{
+    font-size:14px;
+    text-align: center;
+    color:rgb(99, 96, 96);
+    margin-top: 8px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.change-number-anchor{
+    text-align: center;
+    font-weight: 600;
+    font-size:14px;
+}
+
+.btn{
+    border-radius: 8px;
+    font-weight:550;
+    background-color: rgb(94, 187, 241);
+    color:floralwhite
+}
+
+.area3{
+    width:950px;
+}

@@ -1,0 +1,95 @@
+/* top Notice sentence*/
+.top-sentence1{
+    font-size:18px;
+    text-align: center;
+    color:rgb(128, 111, 111);
+    font-weight: 500;
+    margin-left: 20px;
+    margin-right: 15px;
+}
+
+.logo1{
+    background-repeat: no-repeat;
+    background-size: 180px;
+    height: 50px;
+    width: 200px;
+}
+
+/* Notice sentence*/
+.sentence{
+    font-size:14px;
+    text-align: center;
+    color:rgb(128, 111, 111);
+
+}
+
+/* horizontal line*/
+.line{
+    width: 85%; 
+    text-align: center;
+    border-bottom: 1px solid #0002; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+
+ .btn{
+    border-radius: 8px;
+    font-weight:550;
+    background-color: rgb(94, 187, 241);
+    color:floralwhite
+}
+
+.login-label{
+    font-weight:720;
+    font-size: 20px;
+}
+
+.h{
+    height: 450px;
+}
+
+.size1{
+    text-align: center;
+    margin-left: 100px;
+    color: rgb(51, 48, 48);
+}
+
+.signin-img1{
+    background-image: url("../image/signup.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding:0;
+    height: 275px;
+    width:330px;
+}
+
+.loginback-image{
+    background-image: url("../image/bg.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:608px;
+}
+
+.border1{
+    box-shadow: 0px 0px 5px 0 rgba(0, 0, 0, 0.1), 0 6px 30px 0 rgba(0, 0, 0, 0.3);
+}
+         
+.btn-grad1 {
+    background-image: linear-gradient(to right, #314755 0%, #26a0da  51%, #314755  100%);
+    padding: 10px 4px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 5px;
+    display: block;
+  }
+
+  .btn-grad1:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
